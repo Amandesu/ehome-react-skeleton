@@ -58,3 +58,5 @@
 **效果**
 1. 模板中的图片将被替换成默认图片，`default.png`路径在src/images 所以在`src/images`目录下要添加`default.png`
 2. 具有`font-size`的文字的将被清空，并添加默认背景色
+!(效果1)[https://github.com/Amandesu/ehome-react-skeleton/blob/master/demo/images/a.png]
+!(效果1)[https://github.com/Amandesu/ehome-react-skeleton/blob/master/demo/images/b.png]
