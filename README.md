@@ -1,3 +1,5 @@
+一个可以自动生成`react`骨架屏的`webpack loader`
+
 ## 安装
 `cnpm i ehome-react-skeleton --save`
 ## 配置
