@@ -1,0 +1,37 @@
+{
+  "name": "ehome-react-skeleton",
+  "version": "1.0.3",
+  "description": "react骨架解决方案",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amandesu/ehome-react-skeleton.git"
+  },
+  "keywords": [
+    "react",
+    "skeleton"
+  ],
+  "author": "fiveone.lei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amandesu/ehome-react-skeleton/issues"
+  },
+  "homepage": "https://github.com/Amandesu/ehome-react-skeleton#readme",
+  "dependencies": {
+    "autoprefixer": "^7.2.4",
+    "babel-generator": "^6.26.0",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "babylon": "^6.18.0",
+    "es6-promise": "^4.2.2",
+    "lodash": "^4.17.4",
+    "postcss": "^6.0.15",
+    "postcss-less-engine": "^0.6.2",
+    "rework": "^1.0.1"
+  },
+  "_from": "ehome-react-skeleton@1.0.1",
+  "_resolved": "http://registry.npm.taobao.org/ehome-react-skeleton/download/ehome-react-skeleton-1.0.1.tgz"
+}
